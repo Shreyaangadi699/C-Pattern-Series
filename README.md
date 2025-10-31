@@ -6,7 +6,7 @@ This repository contains simple **C programs for pattern printing** — created 
 
 ### 📂 Programs
 1. `Pattern1_square.c` – Prints a square using stars  
-2. `Pattern2_triangle.c` – Prints a right-angled triangle  
+2. `Pattern2.c
 3. More patterns coming soon...
 
 ---
