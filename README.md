@@ -8,7 +8,9 @@ This repository contains simple **C programs for pattern printing** — created 
 1. `Pattern1_square.c` – Prints a square using stars  
 2. `Pattern2.c
 3.  Pattern3.c Floyd’s Triangle form
-5. More patterns coming soon...
+4.  Pattern4.c Sequential Number Pyramid Pattern
+5.  Pattern5.c Reverse Number Rectangle Pattern
+6. More patterns coming soon...
 
 ---
 
